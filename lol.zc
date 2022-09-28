@@ -1,0 +1,2 @@
+>> base64.b64decode(coded_string)
+2: 'C\x96\x00\n\x00\x00\x00\x00C\x96\x00\x
